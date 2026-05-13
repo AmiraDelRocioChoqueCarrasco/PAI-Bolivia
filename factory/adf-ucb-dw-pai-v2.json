@@ -1,0 +1,10 @@
+{
+	"name": "adf-ucb-dw-pai-v2",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "chilecentral"
+}
